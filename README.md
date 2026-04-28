@@ -76,6 +76,7 @@ No affiliate links. No paid placement. No fake “best” rankings.
 - [Mailvelope](https://mailvelope.com/) - Browser extension for OpenPGP email encryption.
 - [Proton Mail](https://proton.me/mail) - Encrypted email service with web, desktop, and mobile apps.
 - [SimpleLogin](https://simplelogin.io/) - Open-source email alias service for shielding your real email address.
+- [Thexyz](https://www.thexyz.com) - Email hosting service with custom domains, spam filtering, and privacy-focused mailbox management.
 - [Tuta](https://tuta.com/) - Encrypted email, calendar, and contacts service.
 
 ## Anonymous Phone Number Aliases
