@@ -186,6 +186,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Anytype](https://anytype.io/) - Local-first, end-to-end encrypted workspace for notes and knowledge management.
 - [CryptPad](https://cryptpad.org/) - End-to-end encrypted collaborative office suite.
 - [Ente Photos](https://ente.io/) - End-to-end encrypted photo storage and sharing.
+- [Megatech Photos](https://www.megatechphotos.com) - End-to-end encrypted alternative to Google photos.
 - [Filen](https://filen.io/) - End-to-end encrypted cloud storage.
 - [Joplin](https://joplinapp.org/) - Open-source notes app with optional end-to-end encryption.
 - [Nextcloud](https://nextcloud.com/) - Self-hostable file sync and collaboration platform.
