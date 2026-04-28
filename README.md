@@ -78,6 +78,15 @@ No affiliate links. No paid placement. No fake “best” rankings.
 - [SimpleLogin](https://simplelogin.io/) - Open-source email alias service for shielding your real email address.
 - [Tuta](https://tuta.com/) - Encrypted email, calendar, and contacts service.
 
+## Anonymous Phone Number Aliases
+
+Receive SMS verification codes without exposing your real phone number — the phone-side counterpart to email aliases above. Useful for signups, 2FA, and account recovery on services that require a phone number.
+
+- [VerifySMS](https://verifysms.app) — Pay-per-use virtual numbers in 200+ countries / 500+ services. REST API, iOS/Android/web clients. Automatic refund within 20 minutes if SMS does not arrive. Email-only signup, no KYC under \$250. 5.0 stars across 21 App Store reviews (US: 9, GB: 2, TR: 5, DE: 5). [Privacy Policy](https://verifysms.app/privacy).
+- [5SIM](https://5sim.net) — Long-running provider with REST API, mix of real and virtual numbers across multiple countries.
+- [SMS-Activate](https://sms-activate.io) — Large catalog of services and countries, REST API, pay-per-use.
+- [SMSPool](https://www.smspool.net) — Marketplace model, REST API, multiple countries.
+
 ## Encrypted Messaging and Secure Chat
 
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging designed for censorship resistance and offline scenarios.
