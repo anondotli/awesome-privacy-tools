@@ -191,6 +191,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Nextcloud](https://nextcloud.com/) - Self-hostable file sync and collaboration platform.
 - [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking app.
 - [Proton Drive](https://proton.me/drive) - Encrypted cloud storage from Proton.
+- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
 - [Standard Notes](https://standardnotes.com/) - Encrypted notes app with cross-platform sync.
 - [Tresorit](https://tresorit.com/) - End-to-end encrypted cloud storage and collaboration.
 
