@@ -190,6 +190,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Joplin](https://joplinapp.org/) - Open-source notes app with optional end-to-end encryption.
 - [Nextcloud](https://nextcloud.com/) - Self-hostable file sync and collaboration platform.
 - [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking app.
+- [Megatech Photos](https://www.megatechphotos.com) - End-to-end encrypted Google Photos alternative.
 - [Proton Drive](https://proton.me/drive) - Encrypted cloud storage from Proton.
 - [Standard Notes](https://standardnotes.com/) - Encrypted notes app with cross-platform sync.
 - [Tresorit](https://tresorit.com/) - End-to-end encrypted cloud storage and collaboration.
