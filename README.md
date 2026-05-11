@@ -90,6 +90,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Encrypted Messaging and Secure Chat
 
+- [A/SIDE](https://a-side.social) — Invitation-only private social network with end-to-end encryption using the Signal Protocol. No algorithmic feed, no ads, and no AI training on user content.
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging designed for censorship resistance and offline scenarios.
 - [Element](https://element.io/) - Matrix client for end-to-end encrypted personal and team chat.
 - [Jami](https://jami.net/) - Peer-to-peer voice, video, and messaging app.
