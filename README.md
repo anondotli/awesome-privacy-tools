@@ -226,6 +226,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
+- [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - Free in-browser AI background remover that processes images entirely client-side with ONNX/WASM — photos never leave your device, no signup, no upload to any server. Part of [TinyTools](https://tinytools-smoky.vercel.app/), an open-source suite of single-purpose web utilities.
 
 ## Self-Hosted Privacy Tools
 
