@@ -261,9 +261,9 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Incogni](https://incogni.com/) - Paid data broker removal service.
 - [JustDeleteMe](https://justdeleteme.xyz/) - Directory of account deletion links and difficulty ratings.
 - [Mozilla Monitor](https://monitor.mozilla.org/) - Breach alerts and exposure guidance from Mozilla.
+- [Paperweight](https://www.paperweight.email/) - Mass email unsubscribe, and data deletion tool.
 - [Simple Opt Out](https://simpleoptout.com/) - Directory of opt-out links for data sharing and marketing programs.
 - [Terms of Service; Didn't Read](https://tosdr.org/) - Summaries and ratings for online terms and privacy policies.
-- [Paperweight] - Scans your inbox to map your digital footprint, then helps you take back control and delete your data.
 
 ## Cryptography and Security Libraries
 
