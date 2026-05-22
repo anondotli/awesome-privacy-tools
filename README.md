@@ -222,6 +222,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
+- [IDPhotoSnap](https://idphotosnap.com) - Passport and visa photo maker for 100+ countries that runs entirely client-side. Face detection and background removal execute in-browser via WebAssembly, so the photo is never uploaded to a server. No account, no watermark.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
