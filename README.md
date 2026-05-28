@@ -68,6 +68,7 @@ No affiliate links. No paid placement. No fake “best” rankings.
 
 - [anon.li Alias](https://anon.li/alias) - Private email aliases with forwarding, reply-by-alias, PGP forwarding, and custom domains.
 - [addy.io](https://addy.io/) - Open-source anonymous email forwarding and aliasing.
+- [Aster Mail](https://astermail.org/) - Zero-access encrypted email with anonymous aliases and custom domain support.
 - [DuckDuckGo Email Protection](https://duckduckgo.com/email/) - Email forwarding service that removes common trackers.
 - [Firefox Relay](https://relay.firefox.com/) - Email masks from Mozilla for hiding your real address.
 - [Forward Email](https://forwardemail.net/) - Open-source email forwarding service with custom domain support.
