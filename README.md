@@ -265,6 +265,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Paperweight](https://www.paperweight.email/) - Mass email unsubscribe, and data deletion tool.
 - [Simple Opt Out](https://simpleoptout.com/) - Directory of opt-out links for data sharing and marketing programs.
 - [Terms of Service; Didn't Read](https://tosdr.org/) - Summaries and ratings for online terms and privacy policies.
+- [TrustYourWebsite](https://trustyourwebsite.com/) - Automated GDPR and cookie compliance scanner for EU and UK small business websites. Free risk score, €2.50 full report, €9.99 premium multi-page scan.
 
 ## Cryptography and Security Libraries
 
