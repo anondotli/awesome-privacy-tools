@@ -239,6 +239,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Mailcow](https://mailcow.email/) - Self-hosted mail server suite.
 - [Nextcloud](https://nextcloud.com/) - Self-hosted file sync, calendar, contacts, and collaboration platform.
 - [Pi-hole](https://pi-hole.net/) - Network-wide DNS sinkhole for ads and trackers.
+- [RouteVeil](https://routeveil.com) - Self-hosted Xray Reality VPN setup. Undetectable by firewalls, works in restricted networks.
 - [SearXNG](https://github.com/searxng/searxng) - Self-hosted private metasearch engine.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight self-hosted Bitwarden-compatible server.
 - [Whoogle](https://github.com/benbusby/whoogle-search) - Self-hosted private search proxy.
