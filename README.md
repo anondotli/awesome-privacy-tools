@@ -138,6 +138,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [OnionShare](https://onionshare.org/) - Share files and host temporary sites through Tor onion services.
 - [Orbot](https://orbot.app/) - Tor proxy for Android.
 - [Proton VPN](https://protonvpn.com/) - VPN service from Proton with open-source apps.
+- [RouteVeil](https://routeveil.com) - Private VPN server setup service using Xray Reality protocol, undetectable by firewalls.
 - [Snowflake](https://snowflake.torproject.org/) - Tor pluggable transport that helps people bypass censorship.
 - [Tor Project](https://www.torproject.org/) - Onion-routing network for stronger anonymity.
 - [WireGuard](https://www.wireguard.com/) - Modern VPN protocol and software.
