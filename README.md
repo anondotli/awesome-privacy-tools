@@ -181,6 +181,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [rclone crypt](https://rclone.org/crypt/) - Encrypted remote storage layer for rclone.
 - [Syncthing](https://syncthing.net/) - Continuous peer-to-peer file synchronization.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk and container encryption software.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign. 100% client-side processing; files never leave the device.
 
 ## Private Cloud Storage, Notes, and Collaboration
 
