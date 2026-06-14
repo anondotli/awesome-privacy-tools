@@ -188,6 +188,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [CryptPad](https://cryptpad.org/) - End-to-end encrypted collaborative office suite.
 - [Ente Photos](https://ente.io/) - End-to-end encrypted photo storage and sharing.
 - [Filen](https://filen.io/) - End-to-end encrypted cloud storage.
+- [FillSign](https://fillsign.app) - Fill and sign PDF forms locally in the browser; the file never gets uploaded.
 - [Joplin](https://joplinapp.org/) - Open-source notes app with optional end-to-end encryption.
 - [Nextcloud](https://nextcloud.com/) - Self-hostable file sync and collaboration platform.
 - [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking app.
