@@ -259,6 +259,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - EFF browser tracking and fingerprinting test.
 - [DeleteMe](https://joindeleteme.com/) - Paid service for removing personal data from data broker sites.
 - [DuckDuckGo App Tracking Protection](https://duckduckgo.com/app-tracking-protection) - Android tracker blocking built into DuckDuckGo's browser app.
+- [ExposureCheck](https://github.com/coraaegis/exposurecheck) - Local-first CLI that audits your own Reddit/X export for AI re-identification (mosaic) risk and shows what to generalise or remove. No dossier, no telemetry, bring your own model.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check whether an email address appears in known breaches.
 - [Incogni](https://incogni.com/) - Paid data broker removal service.
 - [JustDeleteMe](https://justdeleteme.xyz/) - Directory of account deletion links and difficulty ratings.
@@ -267,6 +268,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Simple Opt Out](https://simpleoptout.com/) - Directory of opt-out links for data sharing and marketing programs.
 - [Terms of Service; Didn't Read](https://tosdr.org/) - Summaries and ratings for online terms and privacy policies.
 - [TrustYourWebsite](https://trustyourwebsite.com/) - Automated GDPR and cookie compliance scanner for EU and UK small business websites. Free risk score, €2.50 full report, €9.99 premium multi-page scan.
+
 
 ## Cryptography and Security Libraries
 
