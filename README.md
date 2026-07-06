@@ -1,18 +1,15 @@
 # Awesome Privacy Tools
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+A curated list of the best privacy tools, open-source privacy tools, encrypted messaging apps, anonymous email services, VPNs, Tor tools, password managers, secure file sharing apps, browser privacy extensions, and self-hosted privacy software.
 
-> A curated list of the best privacy tools, open-source privacy tools, encrypted messaging apps, anonymous email services, VPNs, Tor tools, password managers, secure file sharing apps, browser privacy extensions, and self-hosted privacy software.
-
-**Awesome Privacy Tools** helps people find practical tools for private email, encrypted chat, anonymous browsing, password security, data removal, device hardening, and self-hosted alternatives to surveillance-based products.
+Awesome Privacy Tools helps people find practical tools for private email, encrypted chat, anonymous browsing, password security, data removal, device hardening, and self-hosted alternatives to surveillance-based products.
 
 ## Contents
 
 - [Start Here: Best Privacy Tools by Use Case](#start-here-best-privacy-tools-by-use-case)
 - [Selection Criteria](#selection-criteria)
 - [Anonymous Email Aliases and Private Email](#anonymous-email-aliases-and-private-email)
+- [Anonymous Phone Number Aliases](#anonymous-phone-number-aliases)
 - [Encrypted Messaging and Secure Chat](#encrypted-messaging-and-secure-chat)
 - [Private Browsers and Search Engines](#private-browsers-and-search-engines)
 - [Browser Privacy Extensions](#browser-privacy-extensions)
@@ -38,18 +35,18 @@
 A quick privacy stack for common needs:
 
 | Need | Tools to compare |
-| --- | --- |
-| Anonymous email aliases | [anon.li Alias](https://anon.li/alias), [SimpleLogin](https://simplelogin.io/), [addy.io](https://addy.io/), [Firefox Relay](https://relay.firefox.com/) |
-| Encrypted email | [Proton Mail](https://proton.me/mail), [Tuta](https://tuta.com/), [Mailbox.org](https://mailbox.org/) |
-| Secure messaging | [Signal](https://signal.org/), [SimpleX Chat](https://simplex.chat/), [Briar](https://briarproject.org/), [Element](https://element.io/) |
-| Private browsing | [Tor Browser](https://www.torproject.org/download/), [Mullvad Browser](https://mullvad.net/en/browser), [LibreWolf](https://librewolf.net/), [Firefox](https://www.mozilla.org/firefox/) |
-| Private search | [DuckDuckGo](https://duckduckgo.com/), [Brave Search](https://search.brave.com/), [Startpage](https://www.startpage.com/), [SearXNG](https://github.com/searxng/searxng) |
-| Password security | [Bitwarden](https://bitwarden.com/), [KeePassXC](https://keepassxc.org/), [Proton Pass](https://proton.me/pass), [1Password](https://1password.com/) |
-| Two-factor authentication | [Aegis Authenticator](https://getaegis.app/), [Ente Auth](https://ente.io/auth/), [2FAS](https://2fas.com/), [YubiKey](https://www.yubico.com/products/) |
-| Secure file sharing | [anon.li Drop](https://anon.li/drop), [OnionShare](https://onionshare.org/), [Magic Wormhole](https://magic-wormhole.readthedocs.io/), [Syncthing](https://syncthing.net/) |
-| File encryption | [Cryptomator](https://cryptomator.org/), [VeraCrypt](https://www.veracrypt.fr/), [age](https://age-encryption.org/), [Picocrypt](https://github.com/Picocrypt/Picocrypt) |
-| Private operating systems | [GrapheneOS](https://grapheneos.org/), [Tails](https://tails.net/), [Qubes OS](https://www.qubes-os.org/), [Whonix](https://www.whonix.org/) |
-| Self-hosted privacy | [Nextcloud](https://nextcloud.com/), [Vaultwarden](https://github.com/dani-garcia/vaultwarden), [SearXNG](https://github.com/searxng/searxng), [Pi-hole](https://pi-hole.net/) |
+|---|---|
+| Anonymous email aliases | anon.li Alias, SimpleLogin, addy.io, Firefox Relay |
+| Encrypted email | Proton Mail, Tuta, Mailbox.org |
+| Secure messaging | Signal, SimpleX Chat, Briar, Element |
+| Private browsing | Tor Browser, Mullvad Browser, LibreWolf, Firefox |
+| Private search | DuckDuckGo, Brave Search, Startpage, SearXNG |
+| Password security | Bitwarden, KeePassXC, Proton Pass, 1Password |
+| Two-factor authentication | Aegis Authenticator, Ente Auth, 2FAS, YubiKey |
+| Secure file sharing | anon.li Drop, OnionShare, Magic Wormhole, Syncthing |
+| File encryption | Cryptomator, VeraCrypt, age, Picocrypt |
+| Private operating systems | GrapheneOS, Tails, Qubes OS, Whonix |
+| Self-hosted privacy | Nextcloud, Vaultwarden, SearXNG, Pi-hole |
 
 ## Selection Criteria
 
@@ -60,15 +57,16 @@ A privacy tool should usually meet most of these criteria:
 - It explains its security model, privacy model, limitations, or trust assumptions.
 - It is actively maintained, widely used, independently reviewed, or historically important.
 - It avoids deceptive privacy claims, dark patterns, surveillance advertising, and unnecessary telemetry.
-- Open source is preferred, but strong closed-source tools may be included when the trust model and track record are clear.
 
-No affiliate links. No paid placement. No fake “best” rankings.
+Open source is preferred, but strong closed-source tools may be included when the trust model and track record are clear.
+
+No affiliate links. No paid placement. No fake "best" rankings.
 
 ## Anonymous Email Aliases and Private Email
 
-- [anon.li Alias](https://anon.li/alias) - Private email aliases with forwarding, reply-by-alias, PGP forwarding, and custom domains.
+- [anon.li Alias](https://anon.li/) - Private email aliases with forwarding, reply-by-alias, PGP forwarding, and custom domains.
 - [addy.io](https://addy.io/) - Open-source anonymous email forwarding and aliasing.
-- [Aster Mail](https://astermail.org/) - Zero-access encrypted email with anonymous aliases and custom domain support.
+- [Aster Mail](https://astermail.com/) - Zero-access encrypted email with anonymous aliases and custom domain support.
 - [DuckDuckGo Email Protection](https://duckduckgo.com/email/) - Email forwarding service that removes common trackers.
 - [Firefox Relay](https://relay.firefox.com/) - Email masks from Mozilla for hiding your real address.
 - [Forward Email](https://forwardemail.net/) - Open-source email forwarding service with custom domain support.
@@ -77,17 +75,17 @@ No affiliate links. No paid placement. No fake “best” rankings.
 - [Mailvelope](https://mailvelope.com/) - Browser extension for OpenPGP email encryption.
 - [Proton Mail](https://proton.me/mail) - Encrypted email service with web, desktop, and mobile apps.
 - [SimpleLogin](https://simplelogin.io/) - Open-source email alias service for shielding your real email address.
-- [Thexyz](https://www.thexyz.com) - Email hosting service with custom domains, spam filtering, and privacy-focused mailbox management.
+- [Thexyz](https://thexyz.com/) - Email hosting service with custom domains, spam filtering, and privacy-focused mailbox management.
 - [Tuta](https://tuta.com/) - Encrypted email, calendar, and contacts service.
 
 ## Anonymous Phone Number Aliases
 
 Receive SMS verification codes without exposing your real phone number — the phone-side counterpart to email aliases above. Useful for signups, 2FA, and account recovery on services that require a phone number.
 
-- [VerifySMS](https://verifysms.app) — Pay-per-use virtual numbers in 200+ countries / 500+ services. REST API, iOS/Android/web clients. Automatic refund within 20 minutes if SMS does not arrive. Email-only signup, no KYC under \$250. 5.0 stars across 21 App Store reviews (US: 9, GB: 2, TR: 5, DE: 5). [Privacy Policy](https://verifysms.app/privacy).
-- [5SIM](https://5sim.net) — Long-running provider with REST API, mix of real and virtual numbers across multiple countries.
-- [SMS-Activate](https://sms-activate.io) — Large catalog of services and countries, REST API, pay-per-use.
-- [SMSPool](https://www.smspool.net) — Marketplace model, REST API, multiple countries.
+- [VerifySMS](https://verifysms.com/) — Pay-per-use virtual numbers in 200+ countries / 500+ services. REST API, iOS/Android/web clients. Automatic refund within 20 minutes if SMS does not arrive. Email-only signup, no KYC under $250. 5.0 stars across 21 App Store reviews (US: 9, GB: 2, TR: 5, DE: 5). [Privacy Policy](https://verifysms.com/privacy).
+- [5SIM](https://5sim.net/) — Long-running provider with REST API, mix of real and virtual numbers across multiple countries.
+- [SMS-Activate](https://sms-activate.org/) — Large catalog of services and countries, REST API, pay-per-use.
+- [SMSPool](https://smspool.net/) — Marketplace model, REST API, multiple countries.
 
 ## Encrypted Messaging and Secure Chat
 
@@ -111,17 +109,17 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Kagi](https://kagi.com/) - Paid search engine with personalization controls and no ad-funded model.
 - [LibreWolf](https://librewolf.net/) - Firefox fork focused on privacy and security defaults.
 - [Mullvad Browser](https://mullvad.net/en/browser) - Anti-fingerprinting browser built with the Tor Project and usable without Tor.
-- [SearXNG](https://github.com/searxng/searxng) - Self-hostable metasearch engine.
+- [SearXNG](https://docs.searxng.org/) - Self-hostable metasearch engine.
 - [Startpage](https://www.startpage.com/) - Private search engine with proxied search results.
-- [Tor Browser](https://www.torproject.org/download/) - Browser configured to use Tor and reduce fingerprinting.
+- [Tor Browser](https://www.torproject.org/) - Browser configured to use Tor and reduce fingerprinting.
 - [Whoogle](https://github.com/benbusby/whoogle-search) - Self-hosted private metasearch proxy.
 
 ## Browser Privacy Extensions
 
-- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) - Helps resist browser fingerprinting techniques.
+- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Helps resist browser fingerprinting techniques.
 - [ClearURLs](https://github.com/ClearURLs/Addon) - Removes tracking parameters from URLs.
 - [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies from closed tabs with configurable rules.
-- [Firefox Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers) - Isolates accounts and browsing contexts in Firefox.
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/) - Isolates accounts and browsing contexts in Firefox.
 - [LocalCDN](https://www.localcdn.org/) - Emulates common content delivery networks locally.
 - [NoScript](https://noscript.net/) - Fine-grained script blocking for advanced users.
 - [Privacy Badger](https://privacybadger.org/) - Tracker blocker from the Electronic Frontier Foundation.
@@ -134,13 +132,14 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [IVPN](https://www.ivpn.net/) - VPN provider with privacy-oriented policies and clients.
 - [Lokinet](https://lokinet.org/) - Onion-routed network for private browsing and service access.
 - [Mullvad VPN](https://mullvad.net/) - Privacy-focused VPN with anonymous account numbers and cash payment support.
-- [Nym](https://nym.com/) - Mixnet infrastructure for network-level privacy.
+- [Nym](https://nymtech.net/) - Mixnet infrastructure for network-level privacy.
 - [OnionShare](https://onionshare.org/) - Share files and host temporary sites through Tor onion services.
-- [Orbot](https://orbot.app/) - Tor proxy for Android.
+- [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Tor proxy for Android.
 - [Proton VPN](https://protonvpn.com/) - VPN service from Proton with open-source apps.
 - [Snowflake](https://snowflake.torproject.org/) - Tor pluggable transport that helps people bypass censorship.
 - [Tor Project](https://www.torproject.org/) - Onion-routing network for stronger anonymity.
 - [WireGuard](https://www.wireguard.com/) - Modern VPN protocol and software.
+- [proxy-dns-leak-check](https://github.com/SotaProxy/proxy-dns-leak-check) - Open-source CLI tool to detect DNS leaks when routing traffic through a proxy or VPN, comparing direct vs. tunneled resolution for a given host.
 
 ## DNS, Ad Blocking, and Tracker Blocking
 
@@ -168,14 +167,14 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [pass](https://www.passwordstore.org/) - Unix password manager using GnuPG and Git.
 - [Proton Pass](https://proton.me/pass) - Password manager from Proton.
 - [SoloKeys](https://solokeys.com/) - Open-source FIDO security keys.
-- [YubiKey](https://www.yubico.com/products/) - Hardware security keys for phishing-resistant authentication.
+- [YubiKey](https://www.yubico.com/) - Hardware security keys for phishing-resistant authentication.
 
 ## File Encryption and Secure File Sharing
 
-- [anon.li Drop](https://anon.li/drop) - End-to-end encrypted file sharing with browser-side encryption, expiry, password protection, and download limits.
+- [anon.li Drop](https://anon.li/) - End-to-end encrypted file sharing with browser-side encryption, expiry, password protection, and download limits.
 - [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud storage.
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem for Linux and macOS.
-- [Magic Wormhole](https://magic-wormhole.readthedocs.io/) - Securely transfer files and text between computers.
+- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Securely transfer files and text between computers.
 - [OnionShare](https://onionshare.org/) - Private file sharing through Tor onion services.
 - [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Small file encryption tool designed for simplicity.
 - [rclone crypt](https://rclone.org/crypt/) - Encrypted remote storage layer for rclone.
@@ -192,7 +191,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Nextcloud](https://nextcloud.com/) - Self-hostable file sync and collaboration platform.
 - [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking app.
 - [Proton Drive](https://proton.me/drive) - Encrypted cloud storage from Proton.
-- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
+- [qnote](https://github.com/qnote-app/qnote) - Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
 - [Standard Notes](https://standardnotes.com/) - Encrypted notes app with cross-platform sync.
 - [Tresorit](https://tresorit.com/) - End-to-end encrypted cloud storage and collaboration.
 
@@ -202,31 +201,31 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [GrapheneOS](https://grapheneos.org/) - Hardened mobile OS for Pixel devices.
 - [Kicksecure](https://www.kicksecure.com/) - Security-hardened Linux distribution from the Whonix project.
 - [Qubes OS](https://www.qubes-os.org/) - Security-focused desktop OS using compartmentalization.
-- [Secureblue](https://github.com/secureblue/secureblue) - Hardened Fedora Atomic images with security-focused defaults.
+- [Secureblue](https://secureblue.dev/) - Hardened Fedora Atomic images with security-focused defaults.
 - [Tails](https://tails.net/) - Amnesic live operating system that routes traffic through Tor.
 - [Whonix](https://www.whonix.org/) - Desktop OS designed for Tor-based anonymity.
 
 ## Mobile Privacy Tools
 
 - [App Manager](https://github.com/MuntashirAkon/AppManager) - Android app manager with privacy and permission controls.
-- [Aurora Store](https://auroraoss.com/) - Alternative Google Play client.
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - Alternative Google Play client.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) - Android app tracker and permission reports.
 - [F-Droid](https://f-droid.org/) - Catalog of free and open-source Android apps.
-- [NetGuard](https://github.com/M66B/NetGuard) - No-root firewall for Android.
+- [NetGuard](https://www.netguard.me/) - No-root firewall for Android.
 - [Obtainium](https://github.com/ImranR98/Obtainium) - Install and update Android apps directly from release sources.
-- [Orbot](https://orbot.app/) - Tor proxy for Android.
+- [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Tor proxy for Android.
 - [RethinkDNS](https://rethinkdns.com/) - DNS, firewall, and anti-censorship app for Android.
-- [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - Android work-profile isolation tool.
-- [TrackerControl](https://trackercontrol.org/) - Android app for monitoring and blocking tracking.
+- [Shelter](https://github.com/PeterCxy/Shelter) - Android work-profile isolation tool.
+- [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) - Android app for monitoring and blocking tracking.
 
 ## Photo, Metadata, and Media Privacy
 
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
-- [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
+- [ImageOptim](https://imageoptim.com/) - Image optimizer for macOS that can remove metadata.
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
-- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
+- [Scrambled Exif](https://github.com/hmmsjan/Scrambled-Exif) - Android app for removing EXIF metadata before sharing images.
 
 ## Self-Hosted Privacy Tools
 
@@ -239,7 +238,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Mailcow](https://mailcow.email/) - Self-hosted mail server suite.
 - [Nextcloud](https://nextcloud.com/) - Self-hosted file sync, calendar, contacts, and collaboration platform.
 - [Pi-hole](https://pi-hole.net/) - Network-wide DNS sinkhole for ads and trackers.
-- [SearXNG](https://github.com/searxng/searxng) - Self-hosted private metasearch engine.
+- [SearXNG](https://docs.searxng.org/) - Self-hosted private metasearch engine.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight self-hosted Bitwarden-compatible server.
 - [Whoogle](https://github.com/benbusby/whoogle-search) - Self-hosted private search proxy.
 
@@ -259,23 +258,22 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - EFF browser tracking and fingerprinting test.
 - [DeleteMe](https://joindeleteme.com/) - Paid service for removing personal data from data broker sites.
 - [DuckDuckGo App Tracking Protection](https://duckduckgo.com/app-tracking-protection) - Android tracker blocking built into DuckDuckGo's browser app.
-- [ExposureCheck](https://github.com/coraaegis/exposurecheck) - Local-first CLI that audits your own Reddit/X export for AI re-identification (mosaic) risk and shows what to generalise or remove. No dossier, no telemetry, bring your own model.
+- [ExposureCheck](https://github.com/exposurecheck/exposurecheck) - Local-first CLI that audits your own Reddit/X export for AI re-identification (mosaic) risk and shows what to generalise or remove. No dossier, no telemetry, bring your own model.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check whether an email address appears in known breaches.
 - [Incogni](https://incogni.com/) - Paid data broker removal service.
 - [JustDeleteMe](https://justdeleteme.xyz/) - Directory of account deletion links and difficulty ratings.
 - [Mozilla Monitor](https://monitor.mozilla.org/) - Breach alerts and exposure guidance from Mozilla.
-- [Paperweight](https://www.paperweight.email/) - Mass email unsubscribe, and data deletion tool.
+- [Paperweight](https://paperweight.io/) - Mass email unsubscribe, and data deletion tool.
 - [Simple Opt Out](https://simpleoptout.com/) - Directory of opt-out links for data sharing and marketing programs.
 - [Terms of Service; Didn't Read](https://tosdr.org/) - Summaries and ratings for online terms and privacy policies.
 - [TrustYourWebsite](https://trustyourwebsite.com/) - Automated GDPR and cookie compliance scanner for EU and UK small business websites. Free risk score, €2.50 full report, €9.99 premium multi-page scan.
-
 
 ## Cryptography and Security Libraries
 
 - [age](https://age-encryption.org/) - File encryption format and CLI with a small, auditable design.
 - [GnuPG](https://gnupg.org/) - Complete implementation of OpenPGP.
-- [libsodium](https://doc.libsodium.org/) - Modern, easy-to-use cryptography library.
-- [OpenMLS](https://openmls.tech/) - Rust implementation of Messaging Layer Security.
+- [libsodium](https://libsodium.gitbook.io/doc/) - Modern, easy-to-use cryptography library.
+- [OpenMLS](https://github.com/openmls/openmls) - Rust implementation of Messaging Layer Security.
 - [OpenPGP.js](https://openpgpjs.org/) - JavaScript implementation of the OpenPGP protocol.
 - [Sequoia PGP](https://sequoia-pgp.org/) - Modern OpenPGP implementation in Rust.
 - [Sigstore](https://www.sigstore.dev/) - Signing and transparency tooling for software supply chains.
@@ -286,9 +284,9 @@ Receive SMS verification codes without exposing your real phone number — the p
 ## Privacy Guides and Learning Tools
 
 - [Data Detox Kit](https://datadetoxkit.org/) - Step-by-step privacy exercises for everyday users.
-- [Digital Defense Fund Guides](https://digitaldefensefund.org/ddf-guides/) - Security and privacy guides for reproductive rights and advocacy contexts.
+- [Digital Defense Fund Guides](https://digitaldefensefund.org/) - Security and privacy guides for reproductive rights and advocacy contexts.
 - [Electronic Frontier Foundation](https://www.eff.org/) - Digital rights organization covering privacy, free expression, and surveillance.
-- [Mozilla Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/) - Consumer privacy reviews for connected products and apps.
+- [Mozilla Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Consumer privacy reviews for connected products and apps.
 - [OWASP Top 10 Privacy Risks](https://owasp.org/www-project-top-10-privacy-risks/) - Privacy risk model for software teams.
 - [Privacy Guides](https://www.privacyguides.org/) - Independent knowledge base for privacy and security tools.
 - [Security Planner](https://securityplanner.consumerreports.org/) - Personalized security and privacy recommendations.
@@ -307,10 +305,10 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Contributing
 
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Contributions are welcome. Please read CONTRIBUTING.md before opening a pull request.
 
 Good contributions add high-quality privacy tools, improve descriptions, remove dead links, disclose conflicts of interest, and keep the list neutral.
 
 ## License
 
-[CC0 1.0 Universal](LICENSE). Public domain dedication.
+CC0 1.0 Universal. Public domain dedication.
