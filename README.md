@@ -166,6 +166,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Nitrokey](https://www.nitrokey.com/) - Open hardware security keys and encrypted storage devices.
 - [OnlyKey](https://onlykey.io/) - Hardware password manager and security key.
 - [pass](https://www.passwordstore.org/) - Unix password manager using GnuPG and Git.
+- [Password Generator](https://www.nasrtech.dev/tools/password-generator/) - Client-side strong password generator; runs entirely in the browser with no sign-up, upload, or telemetry.
 - [Proton Pass](https://proton.me/pass) - Password manager from Proton.
 - [SoloKeys](https://solokeys.com/) - Open-source FIDO security keys.
 - [YubiKey](https://www.yubico.com/products/) - Hardware security keys for phishing-resistant authentication.
