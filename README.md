@@ -166,8 +166,10 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Nitrokey](https://www.nitrokey.com/) - Open hardware security keys and encrypted storage devices.
 - [OnlyKey](https://onlykey.io/) - Hardware password manager and security key.
 - [pass](https://www.passwordstore.org/) - Unix password manager using GnuPG and Git.
+- [Password Generator](https://github.com/k-adm/password-generator) - Offline Chrome extension that generates random passwords and diceware passphrases entirely on-device, with no network access.
 - [Proton Pass](https://proton.me/pass) - Password manager from Proton.
 - [SoloKeys](https://solokeys.com/) - Open-source FIDO security keys.
+- [TOTP Authenticator](https://github.com/k-adm/totp-authenticator) - Offline Chrome extension for TOTP, HOTP, and Steam 2FA codes stored locally with optional master-password encryption.
 - [YubiKey](https://www.yubico.com/products/) - Hardware security keys for phishing-resistant authentication.
 
 ## File Encryption and Secure File Sharing
