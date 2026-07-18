@@ -258,6 +258,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - EFF browser tracking and fingerprinting test.
 - [DeleteMe](https://joindeleteme.com/) - Paid service for removing personal data from data broker sites.
 - [DuckDuckGo App Tracking Protection](https://duckduckgo.com/app-tracking-protection) - Android tracker blocking built into DuckDuckGo's browser app.
+- [Get Up to Code](https://getuptocode.com/) - Automated ADA, CCPA and US state privacy compliance scanner for US small business websites. Free risk score, $5 full report, $19 premium multi-page scan.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check whether an email address appears in known breaches.
 - [Incogni](https://incogni.com/) - Paid data broker removal service.
 - [JustDeleteMe](https://justdeleteme.xyz/) - Directory of account deletion links and difficulty ratings.
