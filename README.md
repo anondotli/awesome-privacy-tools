@@ -252,6 +252,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [PostHog](https://posthog.com/) - Product analytics suite with self-hosting support.
 - [Swetrix](https://swetrix.com/) - Privacy-focused analytics and monitoring platform.
 - [Umami](https://umami.is/) - Simple, open-source, privacy-focused web analytics.
+- [Apstal](https://apstal.com/) - AI-first web analytics with session replay, adblock-resistant server-side tracking, and a conversational AI assistant.
 
 ## Privacy Checkers, Breach Monitoring, and Data Removal
 
