@@ -126,6 +126,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [NoScript](https://noscript.net/) - Fine-grained script blocking for advanced users.
 - [Privacy Badger](https://privacybadger.org/) - Tracker blocker from the Electronic Frontier Foundation.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - Efficient wide-spectrum content blocker.
+- [Spoof Me for Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Spoof Me for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/) - Browser extension for inspecting and modifying browser fingerprint signals, including user agent, language, timezone, screen size, Canvas, and WebGL.
 
 ## VPNs, Tor, and Network Privacy
 
