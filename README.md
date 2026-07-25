@@ -101,6 +101,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [SimpleX Chat](https://simplex.chat/) - Private messenger designed without user identifiers.
 - [Threema](https://threema.ch/) - Paid encrypted messenger that does not require a phone number.
 - [Wire](https://wire.com/) - End-to-end encrypted messaging and collaboration for individuals and teams.
+- [GUPT](https://gupt.app) - Browser-native, serverless encrypted messenger built on Nostr. No phone number or account required. E2E encrypted chat, P2P WebRTC calls, password vault, and IPFS media storage.
 
 ## Private Browsers and Search Engines
 
