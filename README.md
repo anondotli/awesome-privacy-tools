@@ -245,6 +245,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Privacy-Friendly Analytics and Developer Tools
 
+- [Does My Text Sound AI?](https://parweb.github.io/sounds-ai/) - Checks text for AI-writing tells entirely on-device; the text never leaves the browser.
 - [Fathom Analytics](https://usefathom.com/) - Privacy-focused website analytics without invasive tracking.
 - [GoatCounter](https://www.goatcounter.com/) - Open-source, privacy-friendly web analytics.
 - [Matomo](https://matomo.org/) - Open-source analytics platform with privacy controls.
