@@ -221,6 +221,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Photo, Metadata, and Media Privacy
 
+- [EXIF Data Remover](https://alltoolsverse.com/tools/exif-data-remover/) - Remove EXIF, XMP, ICC, and IPTC metadata from JPEG, PNG, and WebP files in the browser.
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
