@@ -227,6 +227,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
+- [Video Size Reducer](https://videosizereducer.org/) - Compresses MP4 files to a target size entirely in the browser, so the video is never uploaded to a server.
 
 ## Self-Hosted Privacy Tools
 
