@@ -226,6 +226,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
+- [Metadata Remover](https://metadataremover.ai/) - Inspect and remove image metadata locally without uploads or signup.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
 
 ## Self-Hosted Privacy Tools
