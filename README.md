@@ -193,6 +193,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking app.
 - [Proton Drive](https://proton.me/drive) - Encrypted cloud storage from Proton.
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace with notes, tasks, and AI chat. No accounts, no cloud, no telemetry. Plain markdown files stored on your machine.
 - [Standard Notes](https://standardnotes.com/) - Encrypted notes app with cross-platform sync.
 - [Tresorit](https://tresorit.com/) - End-to-end encrypted cloud storage and collaboration.
 
