@@ -4,6 +4,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat. No cloud.
 > A curated list of the best privacy tools, open-source privacy tools, encrypted messaging apps, anonymous email services, VPNs, Tor tools, password managers, secure file sharing apps, browser privacy extensions, and self-hosted privacy software.
 
 **Awesome Privacy Tools** helps people find practical tools for private email, encrypted chat, anonymous browsing, password security, data removal, device hardening, and self-hosted alternatives to surveillance-based products.
