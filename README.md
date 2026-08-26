@@ -98,6 +98,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Molly](https://molly.im/) - Hardened Android client based on Signal.
 - [Session](https://getsession.org/) - Metadata-resistant messenger using an onion-routed network.
 - [Signal](https://signal.org/) - End-to-end encrypted messenger with strong defaults and broad adoption.
+- [aloo](https://github.com/DavidValin/aloo) - P2P e2e encrypted messenger (text/voice/files) with One Time Pad encryption and no server support.
 - [SimpleX Chat](https://simplex.chat/) - Private messenger designed without user identifiers.
 - [Threema](https://threema.ch/) - Paid encrypted messenger that does not require a phone number.
 - [Wire](https://wire.com/) - End-to-end encrypted messaging and collaboration for individuals and teams.
@@ -181,6 +182,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [rclone crypt](https://rclone.org/crypt/) - Encrypted remote storage layer for rclone.
 - [Syncthing](https://syncthing.net/) - Continuous peer-to-peer file synchronization.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk and container encryption software.
+- [aloo](https://github.com/DavidValin/aloo) - P2P e2e encrypted file share.
 
 ## Private Cloud Storage, Notes, and Collaboration
 
@@ -282,6 +284,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [sops](https://github.com/getsops/sops) - Editor for encrypted secrets files.
 - [The Update Framework](https://theupdateframework.io/) - Framework for securing software update systems.
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Secret scanning tool for repositories and other sources.
+- [otp-toolkit](https://github.com/DavidValin/otp-toolkit) - One Time Pad encryption toolkit with keychain support.
 
 ## Privacy Guides and Learning Tools
 
