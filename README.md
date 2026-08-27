@@ -191,6 +191,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Joplin](https://joplinapp.org/) - Open-source notes app with optional end-to-end encryption.
 - [Nextcloud](https://nextcloud.com/) - Self-hostable file sync and collaboration platform.
 - [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking app.
+- [Plainsay](https://plainsay.app/) - Dictation for macOS that transcribes speech on the device, so voice recordings are not sent to a server.
 - [Proton Drive](https://proton.me/drive) - Encrypted cloud storage from Proton.
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
 - [Standard Notes](https://standardnotes.com/) - Encrypted notes app with cross-platform sync.
