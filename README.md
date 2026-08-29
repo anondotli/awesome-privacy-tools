@@ -232,6 +232,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
 - [PDF Metadata Remover](https://intabtools.com/pdf/pdf-metadata-remover) - Removes author, producer, and XMP metadata from PDF files by rewriting the document in the browser; the file never leaves the tab.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
+- [Video Size Reducer](https://videosizereducer.org/) - Compresses MP4 files to a target size entirely in the browser, so the video is never uploaded to a server.
 
 ## Self-Hosted Privacy Tools
 
