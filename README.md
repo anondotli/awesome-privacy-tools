@@ -186,6 +186,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Small file encryption tool designed for simplicity.
 - [rclone crypt](https://rclone.org/crypt/) - Encrypted remote storage layer for rclone.
 - [Syncthing](https://syncthing.net/) - Continuous peer-to-peer file synchronization.
+- [UltraLocked](https://ultralocked.com) — iPhone file vault with Secure Enclave-backed encryption. Fully offline — no account, no cloud sync, no telemetry.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk and container encryption software.
 
 ## Private Cloud Storage, Notes, and Collaboration
