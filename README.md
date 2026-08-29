@@ -141,6 +141,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Proton VPN](https://protonvpn.com/) - VPN service from Proton with open-source apps.
 - [Snowflake](https://snowflake.torproject.org/) - Tor pluggable transport that helps people bypass censorship.
 - [Tor Project](https://www.torproject.org/) - Onion-routing network for stronger anonymity.
+- [Traveler's VPN](https://travelersvpn.com/) - Split-tunnel client for self-hosted Outline, WireGuard, and Trojan servers, built on the open-source sing-box core; no account required.
 - [WireGuard](https://www.wireguard.com/) - Modern VPN protocol and software.
 
 ## DNS, Ad Blocking, and Tracker Blocking
