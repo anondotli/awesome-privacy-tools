@@ -287,6 +287,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Sigstore](https://www.sigstore.dev/) - Signing and transparency tooling for software supply chains.
 - [sops](https://github.com/getsops/sops) - Editor for encrypted secrets files.
 - [The Update Framework](https://theupdateframework.io/) - Framework for securing software update systems.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that runs fully self hosted and local.
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Secret scanning tool for repositories and other sources.
 
 ## Privacy Guides and Learning Tools
