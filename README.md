@@ -229,6 +229,8 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
 - [PDF Metadata Remover](https://intabtools.com/pdf/pdf-metadata-remover) - Removes author, producer, and XMP metadata from PDF files by rewriting the document in the browser; the file never leaves the tab.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
+- [Presend EXIF Remover](https://presendapp.netlify.app/tools/exif-remover.html) - Browser-based tool to strip EXIF metadata (GPS, camera model, timestamps) from a photo. Runs entirely client-side, no upload.
+- [Presend PDF Metadata Remover](https://presendapp.netlify.app/tools/pdf-metadata-remover.html) - Removes document info metadata (author, software, dates) from a PDF. Runs entirely client-side, no upload.
 
 ## Self-Hosted Privacy Tools
 
