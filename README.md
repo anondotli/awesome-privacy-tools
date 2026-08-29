@@ -91,9 +91,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Encrypted Messaging and Secure Chat
 
-- [A/SIDE](https://a-side.social) — Invitation-only private social network with end-to-end encryption using the Signal Protocol. No algorithmic feed, no ads, and no AI training on user content.
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging designed for censorship resistance and offline scenarios.
-- [elm.chat](https://elm.chat/) - Open-source, account-free disposable chat rooms with browser-side encryption, single-use invites, and no persisted server-side transcript.
 - [Element](https://element.io/) - Matrix client for end-to-end encrypted personal and team chat.
 - [Jami](https://jami.net/) - Peer-to-peer voice, video, and messaging app.
 - [Matrix](https://matrix.org/) - Open protocol for decentralized, end-to-end encrypted communication.
@@ -128,7 +126,6 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [NoScript](https://noscript.net/) - Fine-grained script blocking for advanced users.
 - [Privacy Badger](https://privacybadger.org/) - Tracker blocker from the Electronic Frontier Foundation.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - Efficient wide-spectrum content blocker.
-- [Spoof Me for Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Spoof Me for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/) - Browser extension for inspecting and modifying browser fingerprint signals, including user agent, language, timezone, screen size, Canvas, and WebGL.
 
 ## VPNs, Tor, and Network Privacy
 
@@ -140,11 +137,9 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Nym](https://nym.com/) - Mixnet infrastructure for network-level privacy.
 - [OnionShare](https://onionshare.org/) - Share files and host temporary sites through Tor onion services.
 - [Orbot](https://orbot.app/) - Tor proxy for Android.
-- [Orden](https://joinorden.com/) - VPN for censored networks with an open-source Android client on the sing-box core, using VLESS-Reality and Hysteria2 without accounts or logging.
 - [Proton VPN](https://protonvpn.com/) - VPN service from Proton with open-source apps.
 - [Snowflake](https://snowflake.torproject.org/) - Tor pluggable transport that helps people bypass censorship.
 - [Tor Project](https://www.torproject.org/) - Onion-routing network for stronger anonymity.
-- [Traveler's VPN](https://travelersvpn.com/) - Split-tunnel client for self-hosted Outline, WireGuard, and Trojan servers, built on the open-source sing-box core; no account required.
 - [WireGuard](https://www.wireguard.com/) - Modern VPN protocol and software.
 
 ## DNS, Ad Blocking, and Tracker Blocking
@@ -171,10 +166,8 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Nitrokey](https://www.nitrokey.com/) - Open hardware security keys and encrypted storage devices.
 - [OnlyKey](https://onlykey.io/) - Hardware password manager and security key.
 - [pass](https://www.passwordstore.org/) - Unix password manager using GnuPG and Git.
-- [Password Generator](https://github.com/k-adm/password-generator) - Offline Chrome extension that generates random passwords and diceware passphrases entirely on-device, with no network access.
 - [Proton Pass](https://proton.me/pass) - Password manager from Proton.
 - [SoloKeys](https://solokeys.com/) - Open-source FIDO security keys.
-- [TOTP Authenticator](https://github.com/k-adm/totp-authenticator) - Offline Chrome extension for TOTP, HOTP, and Steam 2FA codes stored locally with optional master-password encryption.
 - [YubiKey](https://www.yubico.com/products/) - Hardware security keys for phishing-resistant authentication.
 
 ## File Encryption and Secure File Sharing
@@ -187,7 +180,6 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Small file encryption tool designed for simplicity.
 - [rclone crypt](https://rclone.org/crypt/) - Encrypted remote storage layer for rclone.
 - [Syncthing](https://syncthing.net/) - Continuous peer-to-peer file synchronization.
-- [UltraLocked](https://ultralocked.com) — iPhone file vault with Secure Enclave-backed encryption. Fully offline — no account, no cloud sync, no telemetry.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk and container encryption software.
 
 ## Private Cloud Storage, Notes, and Collaboration
@@ -232,14 +224,11 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
-- [gottrix](https://gottrix.app) - Free browser-based file conversion and metadata-stripping suite (PDF, image, audio, video, data formats) with 500+ tools; 100% client-side via WebAssembly, no uploads.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
-- [ImgSplit](https://imgsplit.com/) - In-browser image toolkit for splitting, compressing, watermarking, and local background removal without uploading files.
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
 - [PDF Metadata Remover](https://intabtools.com/pdf/pdf-metadata-remover) - Removes author, producer, and XMP metadata from PDF files by rewriting the document in the browser; the file never leaves the tab.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
-- [Video Size Reducer](https://videosizereducer.org/) - Compresses MP4 files to a target size entirely in the browser, so the video is never uploaded to a server.
 
 ## Self-Hosted Privacy Tools
 
@@ -294,7 +283,6 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Sigstore](https://www.sigstore.dev/) - Signing and transparency tooling for software supply chains.
 - [sops](https://github.com/getsops/sops) - Editor for encrypted secrets files.
 - [The Update Framework](https://theupdateframework.io/) - Framework for securing software update systems.
-- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that runs fully self hosted and local.
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Secret scanning tool for repositories and other sources.
 
 ## Privacy Guides and Learning Tools
