@@ -226,6 +226,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
+- [gottrix](https://gottrix.app) - Free browser-based file conversion and metadata-stripping suite (PDF, image, audio, video, data formats) with 500+ tools; 100% client-side via WebAssembly, no uploads.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
 - [ImgSplit](https://imgsplit.com/) - In-browser image toolkit for splitting, compressing, watermarking, and local background removal without uploading files.
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
