@@ -134,6 +134,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [IVPN](https://www.ivpn.net/) - VPN provider with privacy-oriented policies and clients.
 - [Lokinet](https://lokinet.org/) - Onion-routed network for private browsing and service access.
 - [Mullvad VPN](https://mullvad.net/) - Privacy-focused VPN with anonymous account numbers and cash payment support.
+- [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that routes browser traffic through your own VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, or WireGuard servers and leaves the rest of the system unproxied.
 - [Nym](https://nym.com/) - Mixnet infrastructure for network-level privacy.
 - [OnionShare](https://onionshare.org/) - Share files and host temporary sites through Tor onion services.
 - [Orbot](https://orbot.app/) - Tor proxy for Android.
