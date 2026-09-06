@@ -168,6 +168,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [pass](https://www.passwordstore.org/) - Unix password manager using GnuPG and Git.
 - [Proton Pass](https://proton.me/pass) - Password manager from Proton.
 - [SoloKeys](https://solokeys.com/) - Open-source FIDO security keys.
+- [VaultKeepR](https://vaultkeepr.xyz/) - Zero-knowledge password manager with no email or account; client-side encryption and IPFS vault sync.
 - [YubiKey](https://www.yubico.com/products/) - Hardware security keys for phishing-resistant authentication.
 
 ## File Encryption and Secure File Sharing
